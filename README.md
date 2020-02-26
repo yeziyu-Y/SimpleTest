@@ -1,2 +1,2 @@
-# SimpleTest
-测试Github使用并学习
+#I hope it can work well
+Wish you success
